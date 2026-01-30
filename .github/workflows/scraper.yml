@@ -1,21 +1,14 @@
 name: SeaRates Scraper
 
 on:
-  # Run manually
   workflow_dispatch:
     inputs:
       tracking_number:
         description: 'Tracking Number'
         required: true
         default: '3100124492'
-  
-  # Or run on schedule (every day at 8 AM UTC)
   schedule:
     - cron: '0 8 * * *'
-  
-  # Or run on push
-  # push:
-  #   branches: [ main ]
 
 jobs:
   scrape:
@@ -40,24 +33,28 @@ jobs:
         run: |
           pip install selenium
       
+      - name: Create results directory
+        run: mkdir -p results
+      
       - name: Run scraper
         run: |
           python scraper_automated.py ${{ github.event.inputs.tracking_number || '3100124492' }}
+          # Move results to results directory
+          mv tracking_*.json results/ 2>/dev/null || true
       
-      - name: Upload results
+      - name: Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results/
+          git diff --quiet && git diff --staged --quiet || git commit -m "📦 Update tracking data: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        continue-on-error: true
+      
+      - name: Upload artifacts (backup)
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: tracking-results
-          path: |
-            tracking_*_full.json
-            tracking_*_summary.json
-          retention-days: 30
-      
-      - name: Display summary
-        if: success()
-        run: |
-          echo "📦 Scraping completed successfully!"
-          if [ -f tracking_*_summary.json ]; then
-            cat tracking_*_summary.json
-          fi
+          name: tracking-results-${{ github.run_number }}
+          path: results/
+          retention-days: 90
