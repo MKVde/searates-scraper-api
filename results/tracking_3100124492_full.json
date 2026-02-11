@@ -10,8 +10,8 @@
       "status": "IN_TRANSIT",
       "is_status_from_sealine": false,
       "from_cache": true,
-      "updated_at": "2026-02-10 05:00:46",
-      "cache_expires": "2026-02-10 11:00:46",
+      "updated_at": "2026-02-11 05:00:51",
+      "cache_expires": "2026-02-11 11:00:51",
       "api_calls": {
         "total": 1,
         "used": 1,
