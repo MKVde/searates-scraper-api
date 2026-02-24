@@ -10,8 +10,8 @@
       "status": "IN_TRANSIT",
       "is_status_from_sealine": false,
       "from_cache": true,
-      "updated_at": "2026-02-23 05:00:45",
-      "cache_expires": "2026-02-23 11:00:45",
+      "updated_at": "2026-02-24 05:00:46",
+      "cache_expires": "2026-02-24 11:00:46",
       "api_calls": {
         "total": 1,
         "used": 1,
@@ -153,13 +153,13 @@
       },
       "pod": {
         "location": 2,
-        "date": "2026-02-15 00:00:00",
+        "date": "2026-02-22 00:00:00",
         "actual": false,
         "predictive_eta": null
       },
       "postpod": {
         "location": 2,
-        "date": "2026-02-15 00:00:00",
+        "date": "2026-02-22 00:00:00",
         "actual": false
       }
     },
@@ -300,14 +300,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -317,14 +317,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -446,14 +446,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -463,14 +463,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -592,14 +592,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -609,14 +609,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -738,14 +738,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -755,14 +755,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -884,14 +884,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -901,14 +901,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -1030,14 +1030,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -1047,14 +1047,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -1176,14 +1176,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -1193,14 +1193,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       },
@@ -1322,14 +1322,14 @@
             "event_type": "TRANSPORT",
             "event_code": "DEPA",
             "status": "VDT",
-            "date": "2026-02-11 00:00:00",
+            "date": "2026-02-18 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           },
           {
             "order_id": 8,
@@ -1339,14 +1339,14 @@
             "event_type": "TRANSPORT",
             "event_code": "ARRI",
             "status": "VAD",
-            "date": "2026-02-15 00:00:00",
+            "date": "2026-02-22 00:00:00",
             "actual": false,
             "is_date_from_sealine": true,
             "is_additional_event": false,
             "type": "sea",
             "transport_type": "VESSEL",
             "vessel": 2,
-            "voyage": "JEDJIB2606"
+            "voyage": "JEDJIB2607"
           }
         ]
       }
