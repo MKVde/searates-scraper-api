@@ -2,12 +2,12 @@
   "tracking_number": "3100124492",
   "shipping_line": "Sealead Shipping",
   "status": "IN_TRANSIT",
-  "updated_at": "2026-03-15 08:29:59",
+  "updated_at": "2026-03-16 08:49:20",
   "route": {
     "origin": "Jebel Ali, United Arab Emirates",
     "departure_date": "2026-01-19 00:00:00",
     "destination": "Djibouti, Djibouti",
-    "eta": "2026-02-22 00:00:00",
+    "eta": "2026-02-19 00:00:00",
     "eta_predictive": null
   },
   "containers": [
@@ -16,8 +16,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -26,8 +26,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -36,8 +36,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -46,8 +46,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -56,8 +56,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -66,8 +66,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -76,8 +76,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     },
@@ -86,8 +86,8 @@
       "type": "20' Dry Standard",
       "status": "IN_TRANSIT",
       "latest_event": {
-        "description": "Vessel arrival at final POD",
-        "date": "2026-02-22 00:00:00",
+        "description": "Discharged",
+        "date": "2026-02-19 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     }
