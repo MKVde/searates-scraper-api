@@ -7,11 +7,11 @@
       "number": "3100124492",
       "sealine": "SJHH",
       "sealine_name": "Sealead Shipping",
-      "status": "IN_TRANSIT",
+      "status": "DELIVERED",
       "is_status_from_sealine": false,
       "from_cache": false,
-      "updated_at": "2026-03-20 08:33:43",
-      "cache_expires": "2026-03-20 14:33:43",
+      "updated_at": "2026-03-21 08:24:21",
+      "cache_expires": "2026-03-21 14:24:21",
       "api_calls": {
         "total": 1,
         "used": 1,
@@ -156,7 +156,7 @@
         "number": "BSIU2922461",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -319,7 +319,7 @@
         "number": "SLVU3015669",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -482,7 +482,7 @@
         "number": "HPCU2386705",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -645,7 +645,7 @@
         "number": "TRHU3505295",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -808,7 +808,7 @@
         "number": "SEKU1072333",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -971,7 +971,7 @@
         "number": "HPCU2474299",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -1134,7 +1134,7 @@
         "number": "SLVU3018631",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
@@ -1297,7 +1297,7 @@
         "number": "UETU2899371",
         "iso_code": "22G1",
         "size_type": "20' Dry Standard",
-        "status": "IN_TRANSIT",
+        "status": "DELIVERED",
         "is_status_from_sealine": false,
         "events_mirrored": false,
         "events": [
