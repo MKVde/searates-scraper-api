@@ -2,92 +2,22 @@
   "tracking_number": "3100124492",
   "shipping_line": "Sealead Shipping",
   "status": "DELIVERED",
-  "updated_at": "2026-04-08 08:54:20",
+  "updated_at": "2026-04-10 09:01:41",
   "route": {
     "origin": "Jebel Ali, United Arab Emirates",
-    "departure_date": "2026-01-19 00:00:00",
+    "departure_date": null,
     "destination": "Djibouti, Djibouti",
     "eta": "2026-02-15 00:00:00",
     "eta_predictive": null
   },
   "containers": [
     {
-      "number": "BSIU2922461",
-      "type": "20' Dry Standard",
+      "number": "UNKNOWN",
+      "type": "",
       "status": "DELIVERED",
       "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "SLVU3015669",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "HPCU2386705",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "TRHU3505295",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "SEKU1072333",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "HPCU2474299",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "SLVU3018631",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
-        "location": "Djibouti, Djibouti"
-      }
-    },
-    {
-      "number": "UETU2899371",
-      "type": "20' Dry Standard",
-      "status": "DELIVERED",
-      "latest_event": {
-        "description": "Discharged",
-        "date": "2026-02-19 00:00:00",
+        "description": "Vessel arrival at final POD",
+        "date": "2026-02-15 00:00:00",
         "location": "Djibouti, Djibouti"
       }
     }
@@ -104,5 +34,5 @@
       "flag": "MT"
     }
   ],
-  "total_containers": 8
+  "total_containers": 1
 }
